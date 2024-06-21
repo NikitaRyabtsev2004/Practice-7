@@ -1,0 +1,43 @@
+:root {
+  background: #ffffff;
+}
+
+
+.container {
+  background: #5ac7b3;
+  border-radius: 20px;
+}
+
+.input-btn {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 100%;
+}
+
+.button {
+  width: 100%;
+}
+
+.btn {
+  margin: 10px 10px ;
+}
+
+.btns {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.item {
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.item-btn {
+  width: 20%;
+}
